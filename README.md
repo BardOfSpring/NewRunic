@@ -6,10 +6,14 @@ NewRunic is a custom keyboard layout, made using Microsoft Keyboard Layout Creat
 
 Note: the current v1.0 is using the Anglo-Saxon fulᚦorc. Later versions will implement all other variants. Also, make sure to restart your computer once it's installed. :)
 
-## Windows 8.1
+## Windows 7
+
+To be tested.
+
+## Windows 8/8.1
 
 Once installed, you can switch between your keyboards using Windows + Space.
 
 ## Windows 10
 
-To be tested.
+Once installed, you can switch between your keyboards using Windows + Space.
