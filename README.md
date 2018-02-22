@@ -20,7 +20,10 @@ Once installed, you can switch between your keyboards using Windows + Space.
 
 # To-Do List
 
-Elder Futhark- Released (v1.0)
-Anglo-Saxon Futhorc- TBD
-Younger Futhark- TBD
+## Elder Futhark
+Released (v1.0)
+## Anglo-Saxon Futhorc
+TBD
+## Younger Futhark
+TBD
 
