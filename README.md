@@ -20,10 +20,23 @@ Once installed, you can switch between your keyboards using Windows + Space.
 
 # To-Do List
 
-## Elder Futhark
-Released (v1.0)
+## Elder Futhark (v1.0 release)
+
+Characters: 24
+
+Additions: 3
+
+  ᛫ the rune Kaunan (ᚲ) is located on both K and C, as it can be used interchangably
+  
+  ᛫ the rune Haglaz (ᚺ) has two variants; the second can be accessed using Shift (ᚻ)
+  
+  . the rune Yngvi (ᛜ) has no real modern transliteration. It therefore fills in for a modern Y key. (the second variant can likewise be     accessed using Shift (ᛝ).
+  
 ## Anglo-Saxon Futhorc
+
 TBD
+
 ## Younger Futhark
+
 TBD
 
