@@ -40,3 +40,13 @@ TBD
 
 TBD
 
+# Installation Guide
+
+## Installation
+
+Run setup.exe and follow the prompts. It will give you an admin prompt (as it uses .msi scripts) so just hit Yes and continue. It will tell you if installed correctly.
+
+## Uninstallation
+
+Run setup.exe and choose "remove tool". It will tell you if uninstalled correctly.
+
